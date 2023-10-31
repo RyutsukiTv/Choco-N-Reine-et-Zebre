@@ -155,7 +155,4 @@ Les échecs augmentent également avec n.Le nombre d'échecs est un indicateur d
 - Visual console pour voir le nombre de solutions trouvées au fur et à mesure du temps, et le nombre de solutions trouvées par seconde.
 - Scanner pour demander le nombre de reines à placer.
 - Fonction `printVisualModel()` pour un affichage des solutions au fur et à mesure.
-## Contributeurs
 
-- NGUYEN Tai
-- GEOFFROY Thomas
