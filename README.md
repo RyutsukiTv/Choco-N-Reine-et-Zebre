@@ -137,7 +137,7 @@ Pour différentes valeurs de n, telles que n=1, 2, 3, 4, 8, 12, 16.
 | Variables :     | 2                  | 2     | 3       | 4   | 8    | 12   | 16   |
 | Constraints :   | 1                  | 4     | 10      | 19  | 85   | 199  | 361  |
 | Building time : | 1,119s             | 9,507s| 52,561s | 11,695s| 14,133s| 16,071s| 3,733s |
-| Complete search |  1 solution found. |  | |         |2 solution(s) found. | 14,200 solution(s) found. |  14,772,512 solution(s) found. |
+| Complete search |  1 solution found. |  |          |2 solution(s) found. | 92 solution(s) found. | 14,200 solution(s) found. |  14,772,512 solution(s) found. |
 | Solutions:      | 1                  | 0     | 0       | 2   | 92   | 14,200  | 14,772,512 |
 | Nodes:          | 1 (45,0 n/s)       | 1 (193,3 n/s) | 2 (1,292,5 n/s) | 5 (1,622,7 n/s) | 495 (7,949,3 n/s) | 132,512 (35,961,5 n/s) | 135,781,503 (47,534,4 n/s) |
 | Backtracks:     | 1                  | 3     | 5       | 7   | 807  | 236,625 | 242,017,983 |
